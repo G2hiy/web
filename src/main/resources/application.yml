@@ -34,7 +34,7 @@ fdfs:
   thumbImage:
     width: 150
     height: 150
-  trackerList: 58.87.118.28:22122 # your profile
+  trackerList: 172.19.52.220:22122 # your profile
 
 mybatis:
   type-aliases-package: com.hpe.findlover.model
